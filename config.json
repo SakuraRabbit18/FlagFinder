@@ -1,0 +1,15 @@
+{
+    "patterns": [
+        "flag",
+        "f1ag",
+        "ctfshow",
+        "FLAG"
+    ],
+    "match": [
+        "666c6167",
+        "flag{",
+        "flag",
+        "Zmxh",
+        "&#102"
+    ]
+}
